@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as s,a as e}from"./app-c680e870.js";const n={},o=e("div",{class:"custom-container tip"},[e("p",{class:"custom-container-title"},"说明"),e("p",null,"本网站提供一些常见的TFL及参考代码，若发现参考代码中有不足的地方，可以联系原作者更新")],-1),a=[o];function _(i,l){return c(),s("div",null,a)}const d=t(n,[["render",_],["__file","index.html.vue"]]);export{d as default};
